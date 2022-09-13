@@ -1,0 +1,1 @@
+Npm com -D é apenas para desenvolvedor, fica numa dependecia diferente
